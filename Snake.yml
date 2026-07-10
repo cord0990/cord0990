@@ -1,0 +1,35 @@
+# Genera la animación de la serpiente que se come tus contribuciones.
+# ⚠️ Este archivo debe vivir en: .github/workflows/snake.yml
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # todos los días a medianoche UTC
+  workflow_dispatch:        # permite ejecutarlo a mano desde la pestaña Actions
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: cord0990
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
