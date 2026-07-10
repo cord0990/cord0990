@@ -1,0 +1,46 @@
+<svg width="480" height="330" viewBox="0 0 480 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a0d13"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ventana -->
+  <rect x="4" y="4" width="472" height="322" rx="12" fill="url(#termBg)" stroke="#30363d" stroke-width="1.5"/>
+  <!-- barra de titulo -->
+  <path d="M4,16 a12,12 0 0 1 12,-12 h448 a12,12 0 0 1 12,12 v20 h-472 Z" fill="#161b22"/>
+  <circle cx="24" cy="20" r="5.5" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="5.5" fill="#ffbd2e"/>
+  <circle cx="60" cy="20" r="5.5" fill="#27c93f"/>
+  <text x="240" y="24" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" fill="#7d8590">diego@pucv: ~</text>
+
+  <!-- arte pixel "DIEGO" (rects vectoriales: se ve igual en cualquier navegador) -->
+  <g>
+    <path d="M26,48h7v7h-7ZM34,48h7v7h-7ZM42,48h7v7h-7ZM50,48h7v7h-7ZM26,56h7v7h-7ZM58,56h7v7h-7ZM26,64h7v7h-7ZM58,64h7v7h-7ZM26,72h7v7h-7ZM58,72h7v7h-7ZM26,80h7v7h-7ZM58,80h7v7h-7ZM26,88h7v7h-7ZM58,88h7v7h-7ZM26,96h7v7h-7ZM34,96h7v7h-7ZM42,96h7v7h-7ZM50,96h7v7h-7Z" fill="#e87b4f" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.3s" fill="freeze"/></path>
+    <path d="M78,48h7v7h-7ZM86,48h7v7h-7ZM94,48h7v7h-7ZM102,48h7v7h-7ZM110,48h7v7h-7ZM94,56h7v7h-7ZM94,64h7v7h-7ZM94,72h7v7h-7ZM94,80h7v7h-7ZM94,88h7v7h-7ZM78,96h7v7h-7ZM86,96h7v7h-7ZM94,96h7v7h-7ZM102,96h7v7h-7ZM110,96h7v7h-7Z" fill="#e87b4f" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.5s" fill="freeze"/></path>
+    <path d="M130,48h7v7h-7ZM138,48h7v7h-7ZM146,48h7v7h-7ZM154,48h7v7h-7ZM162,48h7v7h-7ZM130,56h7v7h-7ZM130,64h7v7h-7ZM130,72h7v7h-7ZM138,72h7v7h-7ZM146,72h7v7h-7ZM154,72h7v7h-7ZM130,80h7v7h-7ZM130,88h7v7h-7ZM130,96h7v7h-7ZM138,96h7v7h-7ZM146,96h7v7h-7ZM154,96h7v7h-7ZM162,96h7v7h-7Z" fill="#e87b4f" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.7s" fill="freeze"/></path>
+    <path d="M190,48h7v7h-7ZM198,48h7v7h-7ZM206,48h7v7h-7ZM214,48h7v7h-7ZM182,56h7v7h-7ZM182,64h7v7h-7ZM182,72h7v7h-7ZM198,72h7v7h-7ZM206,72h7v7h-7ZM214,72h7v7h-7ZM182,80h7v7h-7ZM214,80h7v7h-7ZM182,88h7v7h-7ZM214,88h7v7h-7ZM190,96h7v7h-7ZM198,96h7v7h-7ZM206,96h7v7h-7Z" fill="#e87b4f" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.9s" fill="freeze"/></path>
+    <path d="M242,48h7v7h-7ZM250,48h7v7h-7ZM258,48h7v7h-7ZM234,56h7v7h-7ZM266,56h7v7h-7ZM234,64h7v7h-7ZM266,64h7v7h-7ZM234,72h7v7h-7ZM266,72h7v7h-7ZM234,80h7v7h-7ZM266,80h7v7h-7ZM234,88h7v7h-7ZM266,88h7v7h-7ZM242,96h7v7h-7ZM250,96h7v7h-7ZM258,96h7v7h-7Z" fill="#e87b4f" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.1s" fill="freeze"/></path>
+  </g>
+
+  <!-- comandos -->
+  <g font-family="'Courier New', Courier, monospace" font-size="13" xml:space="preserve">
+    <text x="26" y="164" opacity="0"><tspan fill="#27c93f">$</tspan><tspan fill="#c9d1d9"> whoami</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="1.8s" fill="freeze"/></text>
+    <text x="26" y="184" opacity="0"><tspan fill="#7d8590">&gt; diego · estudiante de informática @ PUCV 🇨🇱</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="2.3s" fill="freeze"/></text>
+
+    <text x="26" y="212" opacity="0"><tspan fill="#27c93f">$</tspan><tspan fill="#c9d1d9"> cat stack.txt</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="2.9s" fill="freeze"/></text>
+    <text x="26" y="232" opacity="0"><tspan fill="#7d8590">&gt; java · c · python · sql</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="3.4s" fill="freeze"/></text>
+
+    <text x="26" y="260" opacity="0"><tspan fill="#27c93f">$</tspan><tspan fill="#c9d1d9"> ./intereses.sh</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="4.0s" fill="freeze"/></text>
+    <text x="26" y="280" opacity="0"><tspan fill="#7d8590">&gt; machine learning · kaggle · datos · finanzas</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="4.5s" fill="freeze"/></text>
+
+    <text x="26" y="308" opacity="0"><tspan fill="#27c93f">$</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="5.0s" fill="freeze"/></text>
+  </g>
+
+  <!-- cursor -->
+  <rect x="42" y="297" width="9" height="15" fill="#e87b4f" opacity="0">
+    <animate attributeName="opacity" values="0;0" dur="5.0s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="5.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
