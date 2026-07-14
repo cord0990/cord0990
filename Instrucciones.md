@@ -17,6 +17,7 @@ cord0990/
 ├── README.md                     ← el Readme.md de esta carpeta
 ├── header.svg
 ├── terminal.svg
+├── focus.svg                     ← tarjeta extra (opcional en el README)
 └── .github/
     └── workflows/
         └── snake.yml             ← el Snake.yml de esta carpeta (¡ojo con la ruta!)
