@@ -1,58 +1,27 @@
-<svg width="480" height="330" viewBox="0 0 480 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="260" height="230" viewBox="0 0 260 230" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="termBg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#0a0d13"/>
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#0a0a0a"/>
     </linearGradient>
   </defs>
 
-  <!-- ventana -->
-  <rect x="4" y="4" width="472" height="322" rx="12" fill="url(#termBg)" stroke="#30363d" stroke-width="1.5"/>
-  <!-- barra de titulo -->
-  <path d="M4,16 a12,12 0 0 1 12,-12 h448 a12,12 0 0 1 12,12 v20 h-472 Z" fill="#161b22"/>
-  <circle cx="24" cy="20" r="5.5" fill="#ff5f56"/>
-  <circle cx="42" cy="20" r="5.5" fill="#ffbd2e"/>
-  <circle cx="60" cy="20" r="5.5" fill="#27c93f"/>
-  <text x="240" y="24" text-anchor="middle" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="12" fill="#7d8590">diego@pucv: ~</text>
+  <rect x="3" y="3" width="254" height="224" rx="10" fill="url(#termBg)" stroke="#30363d" stroke-width="1.5"/>
+  <path d="M3,14 a10,10 0 0 1 10,-10 h234 a10,10 0 0 1 10,10 v16 h-254 Z" fill="#161616"/>
+  <circle cx="20" cy="16" r="4.5" fill="#5a5a5a"/>
+  <circle cx="35" cy="16" r="4.5" fill="#7a7a7a"/>
+  <circle cx="50" cy="16" r="4.5" fill="#e6edf3"/>
 
-  <!-- arte ANSI Shadow "DIEGO" convertido a vectores: cada █ es un rect y cada ╔═╝ una linea doble.
-       Identico al arte de caracteres, pero se ve igual de nitido en cualquier navegador/fuente. -->
-  <g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.3s" fill="freeze"/><path d="M26,52h42v12h-42ZM82,52h14v12h-14ZM103,52h49v12h-49ZM166,52h42v12h-42ZM229,52h42v12h-42Z" fill="#e87b4f"/><path d="M68,56.5H73V64M68,59.5H70V64M96,56.5H101V64M96,59.5H98V64M152,56.5H157V64M152,59.5H154V64M208,56.5H213V64M208,59.5H210V64M271,56.5H276V64M271,59.5H273V64" stroke="#e87b4f" stroke-width="1.3" stroke-opacity="0.55" fill="none"/></g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.5s" fill="freeze"/><path d="M26,64h14v12h-14ZM61,64h14v12h-14ZM82,64h14v12h-14ZM103,64h14v12h-14ZM159,64h14v12h-14ZM222,64h14v12h-14ZM264,64h14v12h-14Z" fill="#e87b4f"/><path d="M47,68.5H42V76M47,71.5H45V76M47,68.5H54M47,71.5H54M54,68.5H61M54,71.5H61M75,68.5H80V76M75,71.5H77V76M98,64V76M101,64V76M124,68.5H119V76M124,71.5H122V76M124,68.5H131M124,71.5H131M131,68.5H138M131,71.5H138M138,68.5H145M138,71.5H145M145,68.5H152M145,71.5H152M157,64V71.5H152M154,64V68.5H152M180,68.5H175V76M180,71.5H178V76M180,68.5H187M180,71.5H187M187,68.5H194M187,71.5H194M194,68.5H201M194,71.5H201M201,68.5H208M201,71.5H208M213,64V71.5H208M210,64V68.5H208M243,68.5H238V76M243,71.5H241V76M243,68.5H250M243,71.5H250M250,68.5H257M250,71.5H257M257,68.5H264M257,71.5H264M278,68.5H283V76M278,71.5H280V76" stroke="#e87b4f" stroke-width="1.3" stroke-opacity="0.55" fill="none"/></g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.7s" fill="freeze"/><path d="M26,76h14v12h-14ZM61,76h14v12h-14ZM82,76h14v12h-14ZM103,76h35v12h-35ZM159,76h14v12h-14ZM194,76h21v12h-21ZM222,76h14v12h-14ZM264,76h14v12h-14Z" fill="#e87b4f"/><path d="M42,76V88M45,76V88M77,76V88M80,76V88M98,76V88M101,76V88M138,80.5H143V88M138,83.5H140V88M175,76V88M178,76V88M215,80.5H220V88M215,83.5H217V88M238,76V88M241,76V88M280,76V88M283,76V88" stroke="#e87b4f" stroke-width="1.3" stroke-opacity="0.55" fill="none"/></g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="0.9s" fill="freeze"/><path d="M26,88h14v12h-14ZM61,88h14v12h-14ZM82,88h14v12h-14ZM103,88h14v12h-14ZM159,88h14v12h-14ZM201,88h14v12h-14ZM222,88h14v12h-14ZM264,88h14v12h-14Z" fill="#e87b4f"/><path d="M42,88V100M45,88V100M77,88V100M80,88V100M98,88V100M101,88V100M124,92.5H119V100M124,95.5H122V100M124,92.5H131M124,95.5H131M131,92.5H138M131,95.5H138M143,88V95.5H138M140,88V92.5H138M175,88V100M178,88V100M217,88V100M220,88V100M238,88V100M241,88V100M280,88V100M283,88V100" stroke="#e87b4f" stroke-width="1.3" stroke-opacity="0.55" fill="none"/></g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.1s" fill="freeze"/><path d="M26,100h42v12h-42ZM82,100h14v12h-14ZM103,100h49v12h-49ZM166,100h42v12h-42ZM229,100h42v12h-42Z" fill="#e87b4f"/><path d="M75,104.5H70V112M75,107.5H73V112M80,100V107.5H75M77,100V104.5H75M98,100V112M101,100V112M152,104.5H157V112M152,107.5H154V112M161,100V107.5H166M164,100V104.5H166M215,104.5H210V112M215,107.5H213V112M220,100V107.5H215M217,100V104.5H215M224,100V107.5H229M227,100V104.5H229M278,104.5H273V112M278,107.5H276V112M283,100V107.5H278M280,100V104.5H278" stroke="#e87b4f" stroke-width="1.3" stroke-opacity="0.55" fill="none"/></g>
-    <g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.15s" begin="1.3s" fill="freeze"/><path d="M28,112V119.5H33M31,112V116.5H33M33,116.5H40M33,119.5H40M40,116.5H47M40,119.5H47M47,116.5H54M47,119.5H54M54,116.5H61M54,119.5H61M61,116.5H68M61,119.5H68M73,112V119.5H68M70,112V116.5H68M84,112V119.5H89M87,112V116.5H89M89,116.5H96M89,119.5H96M101,112V119.5H96M98,112V116.5H96M105,112V119.5H110M108,112V116.5H110M110,116.5H117M110,119.5H117M117,116.5H124M117,119.5H124M124,116.5H131M124,119.5H131M131,116.5H138M131,119.5H138M138,116.5H145M138,119.5H145M145,116.5H152M145,119.5H152M157,112V119.5H152M154,112V116.5H152M168,112V119.5H173M171,112V116.5H173M173,116.5H180M173,119.5H180M180,116.5H187M180,119.5H187M187,116.5H194M187,119.5H194M194,116.5H201M194,119.5H201M201,116.5H208M201,119.5H208M213,112V119.5H208M210,112V116.5H208M231,112V119.5H236M234,112V116.5H236M236,116.5H243M236,119.5H243M243,116.5H250M243,119.5H250M250,116.5H257M250,119.5H257M257,116.5H264M257,119.5H264M264,116.5H271M264,119.5H271M276,112V119.5H271M273,112V116.5H271" stroke="#e87b4f" stroke-width="1.3" stroke-opacity="0.55" fill="none"/></g>
+  <g font-family="'Courier New', Courier, monospace" font-size="12" fill="#c9d1d9">
+    <text x="16" y="52" fill="#e6edf3">$ whoami</text>
+    <text x="16" y="70">diego</text>
+    <text x="16" y="98" fill="#e6edf3">$ cat status.txt</text>
+    <text x="16" y="116">Ingeniería Informática @ PUCV</text>
+    <text x="16" y="132">Aprendiendo ML &amp; datos</text>
+    <text x="16" y="148">Compitiendo en Kaggle</text>
+    <text x="16" y="176" fill="#e6edf3">$ _</text>
+    <rect x="46" y="167" width="8" height="14" fill="#e6edf3">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
   </g>
-
-  <!-- comando whoami verbose -->
-  <g font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="13" xml:space="preserve">
-    <text x="26" y="158" opacity="0"><tspan fill="#27c93f">$</tspan><tspan fill="#c9d1d9"> whoami --verbose</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="1.8s" fill="freeze"/></text>
-
-    <text y="186" opacity="0"><tspan x="26" fill="#e87b4f">UID</tspan><tspan x="126" fill="#7d8590">→</tspan><tspan x="150" fill="#c9d1d9">diego</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="2.2s" fill="freeze"/></text>
-    <text y="210" opacity="0"><tspan x="26" fill="#e87b4f">CARRERA</tspan><tspan x="126" fill="#7d8590">→</tspan><tspan x="150" fill="#c9d1d9">ing. informática @ PUCV</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="2.5s" fill="freeze"/></text>
-    <text y="234" opacity="0"><tspan x="26" fill="#e87b4f">UBICACIÓN</tspan><tspan x="126" fill="#7d8590">→</tspan><tspan x="150" fill="#c9d1d9">valparaíso · chile</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="2.8s" fill="freeze"/></text>
-    <text y="258" opacity="0"><tspan x="26" fill="#e87b4f">LEMA</tspan><tspan x="126" fill="#7d8590">→</tspan><tspan x="150" fill="#c9d1d9">"aprender haciendo"</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="3.1s" fill="freeze"/></text>
-    <text y="282" opacity="0"><tspan x="26" fill="#e87b4f">STATUS</tspan><tspan x="126" fill="#7d8590">→</tspan><animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="3.4s" fill="freeze"/></text>
-  </g>
-
-  <!-- barra de status (rects: nunca dependen de la fuente) -->
-  <g fill="#e87b4f">
-    <rect x="150" y="271" width="6" height="12" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="3.5s" fill="freeze"/></rect>
-    <rect x="158" y="271" width="6" height="12" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="3.6s" fill="freeze"/></rect>
-    <rect x="166" y="271" width="6" height="12" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="3.7s" fill="freeze"/></rect>
-    <rect x="174" y="271" width="6" height="12" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="3.8s" fill="freeze"/></rect>
-    <rect x="182" y="271" width="6" height="12" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="3.9s" fill="freeze"/></rect>
-    <rect x="190" y="271" width="6" height="12" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="4.0s" fill="freeze"/></rect>
-    <rect x="198" y="271" width="6" height="12" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="4.1s" fill="freeze"/></rect>
-    <rect x="206" y="271" width="6" height="12" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.05s" begin="4.2s" fill="freeze"/></rect>
-  </g>
-  <text x="222" y="282" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="13" fill="#27c93f" opacity="0">ONLINE<animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="4.3s" fill="freeze"/></text>
-
-  <!-- prompt final -->
-  <text x="26" y="312" font-family="Consolas, Menlo, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="13" fill="#27c93f" opacity="0">$<animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="4.7s" fill="freeze"/></text>
-  <rect x="42" y="300" width="9" height="15" fill="#e87b4f" opacity="0">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="4.8s" repeatCount="indefinite"/>
-  </rect>
 </svg>
