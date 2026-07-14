@@ -61,5 +61,5 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cord0990&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=30363d&custom_title=Diego's Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cord0990&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=30363d&custom_title=Diego%27s%20Contribution%20Graph" width="100%"/>
 </div>
