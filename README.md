@@ -23,7 +23,7 @@
   ¡Hola! Soy <em><b>Diego</b></em>, estudiante de Ingeniería en Informática
   en la PUCV 🇨🇱. Me gusta entender cómo funcionan las cosas por dentro:
   desde la consulta SQL hasta el modelo que toma la decisión. Hoy estoy
-  metido en el mundo del machine learning y los datos, construyendo
+  metido en el mundo del desarrollo de software y los datos, construyendo
   proyectos pequeños para aprender haciendo.
 </p>
 
