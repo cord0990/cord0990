@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%"/>
+<img src="banner.jpg" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
@@ -64,6 +64,10 @@
 <h2 align="center"><img src="imgs/title3.svg" width="24"/> <em>Statistics</em></h2>
 <hr/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cord0990&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=false&border_color=30363d&custom_title=Diego%27s%20Contribution%20Graph" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cord0990&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cord0990/cord0990/output/dist/github-snake.svg" width="100%"/>
+</p>
