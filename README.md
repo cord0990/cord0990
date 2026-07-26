@@ -34,7 +34,7 @@
 <br/>
 
 <p align="center">
-  <img src="imgs/bullet1.svg" width="15"/>  <em><b>Estudiante de Ingeniería en Informática en la PUCV</b></em> <br/>
+  <img src="imgs/bullet1.svg" width="15"/>  <em><b>Estudiante de Ingeniería en Informática - PUCV</b></em> <br/>
   <img src="imgs/bullet2.svg" width="15"/>  <em><b>Aprendiendo Machine Learning y ciencia de datos</b></em> <br/>
   <img src="imgs/bullet3.svg" width="15"/>  <em><b>Compitiendo en Kaggle</b></em> <br/>
   <img src="imgs/bullet4.svg" width="15"/>  <em><b>Interesado en datos y finanzas</b></em> <br/>
