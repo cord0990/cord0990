@@ -61,6 +61,64 @@
 
 <br/>
 
+<h2 align="center"><img src="imgs/title4.svg" width="24"/> <em>My work</em></h2>
+<hr/>
+
+<!--
+  ¿Cómo agregar un proyecto nuevo?
+  1. Copia uno de los bloques <td> ... </td> de abajo y pégalo dentro de un <tr>.
+  2. Cambia el nombre, la descripción y los enlaces (demo y código).
+  3. Para la captura: guarda una imagen en imgs/ (ej. imgs/proyecto1.png)
+     y reemplaza imgs/preview-soon.svg por esa ruta.
+  Cada <tr> lleva 2 proyectos. Al tener 3, abre otro <tr> debajo.
+-->
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="#" target="_blank">
+        <img src="imgs/preview-soon.svg" width="100%"/>
+      </a>
+      <br/>
+      <b>Nombre del proyecto</b>
+      <br/>
+      <sub>Una línea describiendo qué hace y para qué sirve.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
+      <br/><br/>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_demo-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="#" target="_blank">
+        <img src="imgs/preview-soon.svg" width="100%"/>
+      </a>
+      <br/>
+      <b>Nombre del proyecto</b>
+      <br/>
+      <sub>Una línea describiendo qué hace y para qué sirve.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <br/><br/>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Ver_demo-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <h2 align="center"><img src="imgs/title3.svg" width="24"/> <em>Statistics</em></h2>
 <hr/>
 
