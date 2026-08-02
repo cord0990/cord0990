@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/diego-cordova-cifuentes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="125" />
   </a>
-  <a href="https://www.kaggle.com/tu-usuario" target="_blank">
+  <a href="https://www.kaggle.com/cord09" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" width="130" />
   </a>
   <a href="https://devpost.com/cord0990" target="_blank">
