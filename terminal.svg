@@ -17,8 +17,8 @@
     <text x="16" y="70">diego</text>
     <text x="16" y="98" fill="#e6edf3">$ cat status.txt</text>
     <text x="16" y="116">Ingeniería Informática @ PUCV</text>
-    <text x="16" y="132">Aprendiendo ML &amp; datos</text>
-    <text x="16" y="148">Compitiendo en Kaggle</text>
+    <text x="16" y="132">Apps, webs &amp; APIs</text>
+    <text x="16" y="148">Ciberseguridad + IA</text>
     <text x="16" y="176" fill="#e6edf3">$ _</text>
     <rect x="46" y="167" width="8" height="14" fill="#e6edf3">
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>

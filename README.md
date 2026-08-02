@@ -25,19 +25,20 @@
 
 <p>
   ¡Hola! Soy <em><b>Diego</b></em>, estudiante de Ingeniería en Informática
-  en la PUCV 🇨🇱. Me gusta entender cómo funcionan las cosas por dentro:
-  desde la consulta SQL hasta el modelo que toma la decisión. Hoy estoy
-  metido en el mundo del desarrollo de software y los datos, construyendo
-  proyectos pequeños para aprender haciendo.
+  en la PUCV 🇨🇱. Me enfoco en desarrollar apps y sitios web de punta a
+  punta: frontend con foco en UX, backend con bases de datos, y conectar
+  todo mediante APIs. Antes de escribir código me gusta diagramar y
+  planear la solución. También me interesa harto la ciberseguridad y
+  la Inteligencia Artificial.
 </p>
 
 <br/>
 
 <p align="center">
   <img src="imgs/bullet1.svg" width="15"/>  <em><b>Estudiante de Ingeniería en Informática - PUCV</b></em> <br/>
-  <img src="imgs/bullet2.svg" width="15"/>  <em><b>Aprendiendo Machine Learning y ciencia de datos</b></em> <br/>
-  <img src="imgs/bullet3.svg" width="15"/>  <em><b>Compitiendo en Kaggle</b></em> <br/>
-  <img src="imgs/bullet4.svg" width="15"/>  <em><b>Interesado en datos y finanzas</b></em> <br/>
+  <img src="imgs/bullet2.svg" width="15"/>  <em><b>Desarrollo de apps y webs (frontend, backend y APIs)</b></em> <br/>
+  <img src="imgs/bullet3.svg" width="15"/>  <em><b>Construyendo proyectos web reales (Dulce Frutilla, ASCII Art Studio)</b></em> <br/>
+  <img src="imgs/bullet4.svg" width="15"/>  <em><b>Interesado en ciberseguridad e Inteligencia Artificial</b></em> <br/>
 </p>
 
 <br clear="both"/>
