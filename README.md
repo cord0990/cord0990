@@ -1,7 +1,7 @@
 <img src="banner.jpg" width="100%"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-cordova-cifuentes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" width="125" />
   </a>
   <a href="https://www.kaggle.com/tu-usuario" target="_blank">
