@@ -24,11 +24,10 @@
 <img src="terminal.svg" width="260" align="right" style="margin-left: 20px;"/>
 
 <p>
-  ¡Hola! Soy <em><b>Diego</b></em>, estudiante de Ingeniería en Informática
-  en la PUCV 🇨🇱. Desarrollo apps y sitios web completos: frontend con UX,
-  backend con bases de datos y APIs. Antes de programar, planifico y
-  diagramo la solución. Me interesa la ciberseguridad y la Inteligencia
-  Artificial.
+  ¡Hola! Soy <em><b>Diego</b></em>, estudiante de Ingeniería en Informática.
+  Me gusta aprender tecnologías nuevas y resolver problemas programando.
+  Ahora estoy metido en proyectos web reales para practicar frontend,
+  backend y APIs, y curioseando ciberseguridad e Inteligencia Artificial.
 </p>
 
 <br/>
