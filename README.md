@@ -7,8 +7,8 @@
   <a href="https://www.kaggle.com/tu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
-  <a href="mailto:masterdiegonix@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://devpost.com/cord0990" target="_blank">
+    <img src="https://img.shields.io/badge/Devpost-000000?style=for-the-badge&logo=devpost&logoColor=white" />
   </a>
 </p>
 
