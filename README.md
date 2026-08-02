@@ -123,7 +123,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="imgs/preview-soon.svg" width="100%"/>
+      <img src="imgs/coming-soon.jpg" width="100%"/>
       <br/>
       <b>Próximamente</b>
       <br/>
@@ -132,7 +132,7 @@
       <img src="https://img.shields.io/badge/En_desarrollo-000000?style=for-the-badge&logo=github&logoColor=white" />
     </td>
     <td width="50%" align="center">
-      <img src="imgs/preview-soon.svg" width="100%"/>
+      <img src="imgs/coming-soon.jpg" width="100%"/>
       <br/>
       <b>Próximamente</b>
       <br/>
