@@ -25,16 +25,15 @@
 
 <p>
   ¡Hola! Soy <em><b>Diego</b></em>, estudiante de Ingeniería en Informática
-  en la PUCV 🇨🇱. Me enfoco en desarrollar apps y sitios web de punta a
-  punta: frontend con foco en UX, backend con bases de datos, y conectar
-  todo mediante APIs. Antes de escribir código me gusta diagramar y
-  planear la solución. También me interesa harto la ciberseguridad y
-  la Inteligencia Artificial.
+  en la PUCV 🇨🇱. Desarrollo apps y sitios web completos: frontend con UX,
+  backend con bases de datos y APIs. Antes de programar, planifico y
+  diagramo la solución. Me interesa la ciberseguridad y la Inteligencia
+  Artificial.
 </p>
 
 <br/>
 
-<p align="center">
+<p>
   <img src="imgs/bullet1.svg" width="15"/>  <em><b>Estudiante de Ingeniería en Informática - PUCV</b></em> <br/>
   <img src="imgs/bullet2.svg" width="15"/>  <em><b>Desarrollo de apps y webs (frontend, backend y APIs)</b></em> <br/>
   <img src="imgs/bullet3.svg" width="15"/>  <em><b>Construyendo proyectos web reales (Dulce Frutilla, ASCII Art Studio)</b></em> <br/>
