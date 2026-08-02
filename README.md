@@ -88,7 +88,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://dulcefrutilla.cl" target="_blank">
-        <img src="imgs/preview-soon.svg" width="100%"/>
+        <img src="imgs/cake.png" width="100%"/>
       </a>
       <br/>
       <b>Dulce Frutilla</b>
