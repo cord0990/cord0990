@@ -83,38 +83,58 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="#" target="_blank">
+      <a href="https://dulcefrutilla.cl" target="_blank">
         <img src="imgs/preview-soon.svg" width="100%"/>
       </a>
       <br/>
-      <b>Emprendimiento</b>
+      <b>Dulce Frutilla</b>
       <br/>
-      <sub>Sitio web para un emprendimiento familiar, con catálogo y contacto.</sub>
+      <sub>Sitio para un emprendimiento de tortas artesanales en Santiago.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
       <br/><br/>
-      <a href="#" target="_blank">
+      <a href="https://dulcefrutilla.cl" target="_blank">
         <img src="https://img.shields.io/badge/Ver_sitio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="#" target="_blank">
+      <a href="https://asciiart-studio.netlify.app" target="_blank">
         <img src="imgs/preview-soon.svg" width="100%"/>
       </a>
       <br/>
-      <b>ANSI C Art</b>
+      <b>ASCII Art Studio</b>
       <br/>
-      <sub>Galería de arte ANSI generado en C, desplegada en Vercel.</sub>
+      <sub>Editor web para crear imágenes y texto hechos de caracteres.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=white" />
       <br/><br/>
-      <a href="#" target="_blank">
+      <a href="https://asciiart-studio.netlify.app" target="_blank">
         <img src="https://img.shields.io/badge/Ver_sitio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="imgs/preview-soon.svg" width="100%"/>
+      <br/>
+      <b>Próximamente</b>
+      <br/>
+      <sub>Nuevo proyecto en construcción.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/En_desarrollo-000000?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <img src="imgs/preview-soon.svg" width="100%"/>
+      <br/>
+      <b>Próximamente</b>
+      <br/>
+      <sub>Nuevo proyecto en construcción.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/En_desarrollo-000000?style=for-the-badge&logo=github&logoColor=white" />
     </td>
   </tr>
 </table>
