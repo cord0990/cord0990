@@ -108,8 +108,6 @@
         <img src="imgs/ascii-v2.png" width="100%"/>
       </a>
       <br/>
-      <sub><i>Click the image to open the live site</i></sub>
-      <br/>
       <b>ASCII Art Studio</b>
       <br/>
       <sub>Editor web para crear imágenes y texto hechos de caracteres.</sub>
@@ -120,6 +118,8 @@
       <img src="https://img.shields.io/badge/Figlet-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Web_Workers-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=white" />
+      <br/><br/>
+      <sub><i>Click the image to open the live site</i></sub>
     </td>
   </tr>
   <tr>
