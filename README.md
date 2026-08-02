@@ -108,17 +108,18 @@
         <img src="imgs/ascii-v2.png" width="100%"/>
       </a>
       <br/>
+      <sub><i>Click the image to open the live site</i></sub>
+      <br/>
       <b>ASCII Art Studio</b>
       <br/>
       <sub>Editor web para crear imágenes y texto hechos de caracteres.</sub>
       <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figlet-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Web_Workers-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=white" />
-      <br/><br/>
-      <a href="https://asciiart-studio.netlify.app" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_sitio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-      </a>
     </td>
   </tr>
   <tr>
