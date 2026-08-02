@@ -105,7 +105,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://asciiart-studio.netlify.app" target="_blank">
-        <img src="imgs/ascii-art.png" width="100%"/>
+        <img src="imgs/ascii-v2.png" width="100%"/>
       </a>
       <br/>
       <b>ASCII Art Studio</b>
