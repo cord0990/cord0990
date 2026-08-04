@@ -116,7 +116,7 @@
       <br/>
       <b>ASCII Art Studio</b>
       <br/>
-      <sub>Editor web para crear imágenes y texto hechos de caracteres.</sub>
+      <sub>Editor web para convertir imágenes y texto en arte ASCII, con control de caracteres, colores y contraste en tiempo real.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
