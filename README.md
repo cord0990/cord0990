@@ -104,7 +104,7 @@
       <img src="https://img.shields.io/badge/Cloudflare_R2-000000?style=flat-square&logo=cloudflare&logoColor=white" />
       <br/><br/>
       <a href="https://dulcefrutilla.cl" target="_blank">
-        <img src="https://img.shields.io/badge/Ver_sitio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/🔗-dulcefrutilla.cl-white?style=for-the-badge&labelColor=000000" />
       </a>
       <br/><br/>
       <sub><i>Click the image to open the live site</i></sub>
@@ -124,6 +124,10 @@
       <img src="https://img.shields.io/badge/Figlet-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Web_Workers-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=white" />
+      <br/><br/>
+      <a href="https://asciiart-studio.netlify.app" target="_blank">
+        <img src="https://img.shields.io/badge/🔗-asciiart--studio.netlify.app-white?style=for-the-badge&labelColor=000000" />
+      </a>
       <br/><br/>
       <sub><i>Click the image to open the live site</i></sub>
     </td>
