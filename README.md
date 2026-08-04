@@ -93,7 +93,7 @@
       <br/>
       <b>Dulce Frutilla</b>
       <br/>
-      <sub>Catálogo de tortas para un negocio real con panel de administración, autenticación y fotos servidas desde el borde.</sub>
+      <sub>Catálogo de tortas para un negocio real con panel de administración, autenticación y gestión de fotos.</sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />
