@@ -106,6 +106,8 @@
       <a href="https://dulcefrutilla.cl" target="_blank">
         <img src="https://img.shields.io/badge/Ver_sitio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
+      <br/><br/>
+      <sub><i>Click the image to open the live site</i></sub>
     </td>
     <td width="50%" align="center">
       <a href="https://asciiart-studio.netlify.app" target="_blank">
