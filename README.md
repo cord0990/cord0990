@@ -97,7 +97,11 @@
       <br/><br/>
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare_Workers-000000?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare_R2-000000?style=flat-square&logo=cloudflare&logoColor=white" />
       <br/><br/>
       <a href="https://dulcefrutilla.cl" target="_blank">
         <img src="https://img.shields.io/badge/Ver_sitio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -112,13 +116,12 @@
       <br/>
       <sub>Editor web para crear imágenes y texto hechos de caracteres.</sub>
       <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare_Workers-000000?style=flat-square&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudflare_R2-000000?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figlet-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Web_Workers-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Netlify-000000?style=flat-square&logo=netlify&logoColor=white" />
       <br/><br/>
       <sub><i>Click the image to open the live site</i></sub>
     </td>
