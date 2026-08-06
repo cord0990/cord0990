@@ -161,7 +161,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cord0990&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" height="190"/>
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/cord0990/cord0990/output/dist/github-snake.svg" width="100%"/>
-</p>
