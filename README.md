@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://hits.sh/github.com/cord0990/cord0990.svg?style=for-the-badge&label=PROFILE+VIEWS&color=000000&labelColor=000000" />
+  <img src="https://hits.sh/github.com/cord0990/cord0990.svg?style=for-the-badge&label=PROFILE+VIEWS&color=000000&labelColor=000000" width="183" />
 </p>
 
 <br>
