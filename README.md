@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cord0990&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cord0990.cord0990.profile&left_color=%23000000&right_color=%23000000&left_text=PROFILE%20VIEWS" />
 </p>
 
 <br>
