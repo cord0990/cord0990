@@ -30,7 +30,7 @@
 
 <p>
   <img src="imgs/bullet1.svg" width="15"/>  <em><b>Estudiante de Ingeniería en Informática - PUCV</b></em> <br/>
-  <img src="imgs/bullet2.svg" width="15"/>  <em><b>Desarrollo de apps y webs (frontend, backend y APIs)</b></em> <br/>
+  <img src="imgs/bullet2.svg" width="15"/>  <em><b>Aprendiendo desarrollo de apps y webs (frontend, backend y APIs)</b></em> <br/>
   <img src="imgs/bullet3.svg" width="15"/>  <em><b>Construyendo proyectos web reales</b></em> <br/>
   <img src="imgs/bullet4.svg" width="15"/>  <em><b>Interesado en ciberseguridad e Inteligencia Artificial</b></em> <br/>
 </p>
