@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cord0990.cord0990.profile&left_color=%23000000&right_color=%23000000&left_text=PROFILE%20VIEWS" />
+  <img src="https://hits.sh/github.com/cord0990/cord0990.svg?style=for-the-badge&label=PROFILE+VIEWS&color=000000&labelColor=000000" />
 </p>
 
 <br>
