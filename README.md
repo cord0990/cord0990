@@ -12,10 +12,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://hits.sh/github.com/cord0990/cord0990.svg?style=for-the-badge&label=PROFILE+VIEWS&color=000000&labelColor=000000" width="183" />
-</p>
-
 <br>
 
 <h2 align="center"><img src="imgs/title1.svg" width="24"/> <em>About me</em></h2>
