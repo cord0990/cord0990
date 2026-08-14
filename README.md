@@ -133,13 +133,26 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="imgs/coming-soon.jpg" width="100%"/>
+      <a href="https://uml-detective.diego-cordova-c.workers.dev" target="_blank">
+        <img src="imgs/uml-detective.png" width="100%"/>
+      </a>
       <br/>
-      <b>Próximamente</b>
+      <b>UML-Detective</b>
       <br/>
-      <sub>Nuevo proyecto en construcción.</sub>
+      <sub>Ejercicios interactivos para cazar errores en diagramas UML propios, con la explicación de cada uno. Desarrollada como apoyo a la ayudantía de Modelamiento de Software 2026, PUCV.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/En_desarrollo-000000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/SVG-000000?style=flat-square&logo=svg&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare_Workers-000000?style=flat-square&logo=cloudflareworkers&logoColor=white" />
+      <br/><br/>
+      <a href="https://uml-detective.diego-cordova-c.workers.dev" target="_blank">
+        <img src="https://img.shields.io/badge/🔗-uml--detective.diego--cordova--c.workers.dev-white?style=for-the-badge&labelColor=000000" />
+      </a>
+      <br/><br/>
+      <sub><i>Click the image to open the live site</i></sub>
     </td>
     <td width="50%" align="center">
       <img src="imgs/coming-soon.jpg" width="100%"/>
