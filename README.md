@@ -134,7 +134,7 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://uml-detective.diego-cordova-c.workers.dev" target="_blank">
-        <img src="imgs/uml-detective.png" width="100%"/>
+        <img src="imgs/Uml-det.png" width="100%"/>
       </a>
       <br/>
       <b>UML-Detective</b>
