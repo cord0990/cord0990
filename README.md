@@ -172,5 +172,5 @@
 <hr/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cord0990&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&cache_seconds=86400" height="190"/>
+  <img src="https://streak-stats.demolab.com?user=cord0990&background=000000&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&cache_seconds=3600&v=4" height="190"/>
 </p>
