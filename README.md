@@ -156,7 +156,7 @@
     </td>
     <td width="50%" align="center">
       <a href="https://sin-pituto.pages.dev" target="_blank">
-        <img src="imgs/sin-pituto.png" width="100%"/>
+        <img src="imgs/sin-pituto-v2.png" width="100%"/>
       </a>
       <br/>
       <b>Sin Pituto</b>
