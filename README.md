@@ -155,13 +155,26 @@
       <sub><i>Click the image to open the live site</i></sub>
     </td>
     <td width="50%" align="center">
-      <img src="imgs/coming-soon.jpg" width="100%"/>
+      <a href="https://sin-pituto.pages.dev" target="_blank">
+        <img src="imgs/sin-pituto.png" width="100%"/>
+      </a>
       <br/>
-      <b>Próximamente</b>
+      <b>Sin Pituto</b>
       <br/>
-      <sub>Nuevo proyecto en construcción.</sub>
+      <sub>Tablero de ofertas de práctica para estudiantes en Chile, con filtros, fichas y seguimiento de postulaciones. Se alimenta de un Google Sheet y se actualiza solo cada día.</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/En_desarrollo-000000?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Sheets-000000?style=flat-square&logo=googlesheets&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare_Pages-000000?style=flat-square&logo=cloudflarepages&logoColor=white" />
+      <br/><br/>
+      <a href="https://sin-pituto.pages.dev" target="_blank">
+        <img src="https://img.shields.io/badge/🔗-sin--pituto.pages.dev-white?style=for-the-badge&labelColor=000000" />
+      </a>
+      <br/><br/>
+      <sub><i>Click the image to open the live site</i></sub>
     </td>
   </tr>
 </table>
