@@ -30,6 +30,7 @@
 
 <p>
   <img src="imgs/bullet1.svg" width="15"/>  <em><b>Estudiante de Ingeniería en Informática - PUCV</b></em> <br/>
+  <img src="imgs/bullet1.svg" width="15"/>  <em><b>Ayudante de Modelamiento de Software - PUCV</b></em> <br/>
   <img src="imgs/bullet2.svg" width="15"/>  <em><b>Aprendiendo desarrollo de apps y webs (frontend, backend y APIs)</b></em> <br/>
   <img src="imgs/bullet3.svg" width="15"/>  <em><b>Construyendo proyectos web reales</b></em> <br/>
   <img src="imgs/bullet4.svg" width="15"/>  <em><b>Interesado en ciberseguridad e Inteligencia Artificial</b></em> <br/>
@@ -60,6 +61,7 @@
   <img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=white" width="115" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" width="100" />
   <img src="https://img.shields.io/badge/draw.io-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white" width="121" />
+  <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge&logo=uml&logoColor=white" width="71" />
 </p>
 
 <br/>
